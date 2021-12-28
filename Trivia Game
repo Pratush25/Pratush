@@ -15,7 +15,7 @@ class Question {
 
 private:
 
-    string Question_Text;
+    string Questions;
 
     string Answer_1;
 
@@ -27,7 +27,7 @@ private:
 
     int Correct_Answer;
 
-    int Question_Score;
+    int score;
  
 
 public:
